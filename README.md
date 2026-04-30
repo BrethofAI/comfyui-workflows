@@ -2,6 +2,12 @@
 
 > Curated, tested, actually-working [ComfyUI](https://github.com/comfyanonymous/ComfyUI) workflows. Pinned to specific ComfyUI commits + custom-node versions. Real outputs, no broken nodes, no paywalled .safetensors links you don't have access to.
 
+> 🚧 **Repo status (2026-04):** In preparation. Directory layout is
+> live but workflow `.json` files and sample outputs are landing
+> throughout May 2026 as the GPU is freed up between Brethof Voice Pro
+> LoRA training runs. **[Star the repo](https://github.com/BrethofAI/comfyui-workflows)**
+> to be notified when the first hero workflow (LTX chunked-loop) ships.
+
 Maintained by [Brethof AI](https://brethof.com). Companion to
 [awesome-local-ai](https://github.com/BrethofAI/awesome-local-ai),
 where ComfyUI is listed as the dominant local-AI image / video
