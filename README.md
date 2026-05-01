@@ -178,6 +178,9 @@ For AMD / Intel GPU testing we welcome PRs documenting compatibility.
 
 - **[awesome-local-ai](https://github.com/BrethofAI/awesome-local-ai)** — ComfyUI listed under Image / Video Generation.
 - **[awesome-ai-mine](https://github.com/BrethofAI/awesome-ai-mine)** — License clauses for the underlying models (Flux, SDXL, LTX, Wan).
+- **[awesome-llms-txt](https://github.com/BrethofAI/awesome-llms-txt)** — Tools doing AI-agent discovery right.
+- **[awesome-private-ai](https://github.com/BrethofAI/awesome-private-ai)** — Privacy-respecting AI architectures.
+- **[awesome-linux-for-ai](https://github.com/BrethofAI/awesome-linux-for-ai)** — The Linux distros these workflows are tested on.
 - **ComfyUI core repo:** [github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 - **ComfyUI-Manager:** [github.com/ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) — install custom nodes from inside ComfyUI itself.
 
