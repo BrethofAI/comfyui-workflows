@@ -27,7 +27,7 @@ The chunk-prompt template re-establishes:
 ## Required (when shipped)
 
 - ComfyUI commit: TBD (will pin specific SHA)
-- LTX-2 weights: [Lightricks/LTX-Video](https://huggingface.co/Lightricks/LTX-Video) — see [awesome-ai-mine](https://github.com/BrethofAI/awesome-ai-mine) for licence status of each LTX version
+- LTX-2 weights: [Lightricks/LTX-Video](https://huggingface.co/Lightricks/LTX-Video) — see [awesome-ai-minefield](https://github.com/BrethofAI/awesome-ai-minefield) for licence status of each LTX version
 - Custom nodes: TBD (will pin specific commits)
 - VRAM: 24 GB recommended; 16 GB possible with FP8 quantisation
 

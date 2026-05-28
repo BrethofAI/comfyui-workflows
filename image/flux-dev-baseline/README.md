@@ -19,6 +19,6 @@ those, fork the workflow.
 ## Licence note
 
 ⚠️ Flux.1 [dev] is **non-commercial only** — see
-[awesome-ai-mine](https://github.com/BrethofAI/awesome-ai-mine) for the
+[awesome-ai-minefield](https://github.com/BrethofAI/awesome-ai-minefield) for the
 exact clause. Use [Flux.1 [schnell]](https://huggingface.co/black-forest-labs/FLUX.1-schnell)
 (Apache 2.0) if you need commercial use of open weights.

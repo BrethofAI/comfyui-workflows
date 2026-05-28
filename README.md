@@ -177,7 +177,7 @@ For AMD / Intel GPU testing we welcome PRs documenting compatibility.
 ## Related work
 
 - **[awesome-local-ai](https://github.com/BrethofAI/awesome-local-ai)** — ComfyUI listed under Image / Video Generation.
-- **[awesome-ai-mine](https://github.com/BrethofAI/awesome-ai-mine)** — License clauses for the underlying models (Flux, SDXL, LTX, Wan).
+- **[awesome-ai-minefield](https://github.com/BrethofAI/awesome-ai-minefield)** — License clauses for the underlying models (Flux, SDXL, LTX, Wan).
 - **[awesome-llms-txt](https://github.com/BrethofAI/awesome-llms-txt)** — Tools doing AI-agent discovery right.
 - **[awesome-private-ai](https://github.com/BrethofAI/awesome-private-ai)** — Privacy-respecting AI architectures.
 - **[awesome-linux-for-ai](https://github.com/BrethofAI/awesome-linux-for-ai)** — The Linux distros these workflows are tested on.
@@ -203,7 +203,7 @@ LoRAs, or "DM me for the .safetensors". Reproducibility is the point.
 
 [MIT](LICENSE) for the workflow JSONs and accompanying text. Models
 linked from each workflow have their own licenses — see
-[awesome-ai-mine](https://github.com/BrethofAI/awesome-ai-mine).
+[awesome-ai-minefield](https://github.com/BrethofAI/awesome-ai-minefield).
 
 ---
 
