@@ -8,7 +8,7 @@
 > LoRA training runs. **[Star the repo](https://github.com/BrethofAI/comfyui-workflows)**
 > to be notified when the first hero workflow (LTX chunked-loop) ships.
 
-Maintained by [Brethof AI](https://brethof.com). Companion to
+Maintained by [Brethof AI](https://brethof.ai). Companion to
 [awesome-local-ai](https://github.com/BrethofAI/awesome-local-ai),
 where ComfyUI is listed as the dominant local-AI image / video
 pipeline.
@@ -79,7 +79,7 @@ this workflow generates long-form video by:
   invisible.
 
 This is a flagship Brethof AI workflow. We use it for the
-[Nova YouTube channel](https://brethof.com)'s b-roll and intend to
+[Nova YouTube channel](https://brethof.ai)'s b-roll and intend to
 keep it updated as LTX models evolve.
 
 ### `[stub]` 🖼️ Flux Dev baseline — sane defaults for SOTA image generation
@@ -207,5 +207,5 @@ linked from each workflow have their own licenses — see
 
 ---
 
-Maintained by **[Brethof AI](https://brethof.com)** — AI tools built for
+Maintained by **[Brethof AI](https://brethof.ai)** — AI tools built for
 people who take their data seriously.
