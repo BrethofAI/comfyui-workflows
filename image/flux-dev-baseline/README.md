@@ -1,20 +1,22 @@
 # Flux.1 [dev] baseline workflow
 
-> Sane-defaults image generation with Flux.1 [dev]. No frills, just a workflow that works.
+> Sane-defaults image generation with Flux.1 [dev]. **Scoped, not published:** no `workflow.json`, sample outputs or pin list yet, and no date.
 
-🚧 **Coming next:** workflow.json, sample outputs, exact pin list.
-
-## What this is
+## What it would be
 
 A no-surprise starter for Flux. Reasonable sampler, scheduler, and CFG.
-Includes:
+Planned graph:
 - Model loader for [black-forest-labs/FLUX.1-dev](https://huggingface.co/black-forest-labs/FLUX.1-dev)
 - T5 + CLIP encoders
 - Single KSampler at default settings that look good
 - VAE decode + save
 
-No upscaler, no ControlNet, no IPAdapter — keep it simple. If you want
-those, fork the workflow.
+No upscaler, no ControlNet, no IPAdapter — keep it simple.
+
+Flux.1 [dev] is no longer Black Forest Labs' newest open-weights model
+([FLUX.2 [dev]](https://huggingface.co/black-forest-labs/FLUX.2-dev)
+followed in Nov 2025), so check the scope still makes sense before
+building on this.
 
 ## Licence note
 
