@@ -1,6 +1,6 @@
 # comfyui-workflows
 
-> Curated, tested, actually-working [ComfyUI](https://github.com/comfyanonymous/ComfyUI) workflows. Pinned to specific ComfyUI commits + custom-node versions. Real outputs, no broken nodes, no paywalled .safetensors links you don't have access to.
+> Curated, tested, actually-working [ComfyUI](https://github.com/Comfy-Org/ComfyUI) workflows. Pinned to specific ComfyUI commits + custom-node versions. Real outputs, no broken nodes, no paywalled .safetensors links you don't have access to.
 
 > 🚧 **Repo status (2026-04):** In preparation. Directory layout is
 > live but workflow `.json` files and sample outputs are landing
@@ -144,8 +144,10 @@ Take a still image, feed it to Wan2.2, get a cinematic 5-second clip.
    - The list of custom nodes required, with the **specific commit
      SHAs** known to work.
    - The model files needed, with HuggingFace URL + SHA256.
-3. Install custom nodes via ComfyUI Manager or `git clone` directly
-   into `ComfyUI/custom_nodes/`.
+3. Install custom nodes with ComfyUI-Manager or `git clone` them
+   directly into `ComfyUI/custom_nodes/`. In current ComfyUI the
+   Manager ships with core: `pip install -r manager_requirements.txt`,
+   then start ComfyUI with `python main.py --enable-manager`.
 4. Place models in their canonical paths (`models/checkpoints/`,
    `models/loras/`, `models/clip/`, etc.).
 5. Drag the `workflow.png` (or load the `.json`) into ComfyUI.
@@ -177,12 +179,12 @@ For AMD / Intel GPU testing we welcome PRs documenting compatibility.
 ## Related work
 
 - **[awesome-local-ai](https://github.com/BrethofAI/awesome-local-ai)** — ComfyUI listed under Image / Video Generation.
-- **[awesome-ai-minefield](https://github.com/BrethofAI/awesome-ai-minefield)** — License clauses for the underlying models (Flux, SDXL, LTX, Wan).
+- **[awesome-ai-minefield](https://github.com/BrethofAI/awesome-ai-minefield)** — Licence clauses for several of the underlying models (FLUX.2, SD3, LTX-2, Wan 2.2).
 - **[awesome-llms-txt](https://github.com/BrethofAI/awesome-llms-txt)** — Tools doing AI-agent discovery right.
 - **[awesome-private-ai](https://github.com/BrethofAI/awesome-private-ai)** — Privacy-respecting AI architectures.
 - **[awesome-linux-for-ai](https://github.com/BrethofAI/awesome-linux-for-ai)** — The Linux distros these workflows are tested on.
-- **ComfyUI core repo:** [github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-- **ComfyUI-Manager:** [github.com/ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) — install custom nodes from inside ComfyUI itself.
+- **ComfyUI core repo:** [github.com/Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+- **ComfyUI-Manager:** [github.com/Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) — install custom nodes from inside ComfyUI itself.
 
 ## Contributing
 
