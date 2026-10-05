@@ -1,0 +1,9 @@
+# comfyui-workflows
+
+> A repository of reproducible ComfyUI workflows pinned to specific commits and custom-node versions to ensure consistent image and video generation results.
+
+The project is currently a placeholder with no published workflows, containing only a template and descriptions for two scoped workflows. Each future workflow will include a JSON file, a README with exact dependencies, and sample outputs for verification. It is maintained by Brethof AI and licensed under MIT.
+
+## Docs
+
+- [comfyui-workflows](https://raw.githubusercontent.com/BrethofAI/comfyui-workflows/main/README.md): Placeholder repo status, workflow template, and reasons for pinning ComfyUI workflows to specific commits and node versions.
